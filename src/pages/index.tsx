@@ -523,7 +523,7 @@ export default function IndexPage({ path }): JSX.Element {
                   </dt>
                   <dd className="mt-2">
                     <p className="text-base leading-6" style={{ color: TEXT_SECONDARY }}>
-                      Contributions are welcome! Visit our{' '}
+                      Contributions are welcome! Visit our {' '}
                       <a
                         href="https://github.com/usamoguide/usamo-guide"
                         target="_blank"
